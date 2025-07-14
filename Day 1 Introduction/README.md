@@ -43,14 +43,6 @@ Competitive programming is a mental sport where you solve well-defined algorithm
 
 ---
 
-## 🖼️ Visualization
-
-> **[Placeholder for diagram: "USACO Divisions Ladder" — Show Bronze → Silver → Gold → Platinum]**
->
-> *(Put an image in `../assets/` later, e.g., `assets/usaco-divisions.png`)*
-
----
-
 ## 💡 Example
 
 Here’s a very simple example problem to illustrate the workflow. See `example.cpp` for the code!
