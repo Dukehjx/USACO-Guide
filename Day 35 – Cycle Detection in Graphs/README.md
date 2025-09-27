@@ -52,15 +52,6 @@ If you can produce a **topological ordering**, the graph is acyclic. If Kahn’s
 
 ---
 
-## 🖼️ Visualization
-
-> **[Placeholder:**
-> - Undirected: triangle showing parent/child and a cross-edge
-> - Directed: arrows forming a loop with a “gray” back-edge
-> ]**
-
----
-
 ## 📝 Tips
 
 - For **undirected** graphs: remember to pass/track the **parent** in DFS.

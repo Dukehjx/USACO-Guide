@@ -28,11 +28,6 @@ In an unweighted graph, the shortest path is the one with the **fewest edges**�
 
 ---
 
-## 🖼️ Visualization
-> **[Placeholder: BFS layers expanding from source node s: 0 → 1-edge frontier → 2-edge frontier …]**
-
----
-
 ## 💡 Example
 See [`example.cpp`](./example.cpp) for a template that:
 1) builds an adjacency list,  

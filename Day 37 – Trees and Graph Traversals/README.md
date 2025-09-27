@@ -61,13 +61,6 @@ These are **core building blocks** for many tree problems.
 
 ---
 
-## 🖼️ Visualization
-
-> **[Placeholder: Root at node 1, arrows showing DFS preorder and postorder orderings, and BFS layers]**
->
-> *(Add to `../assets/` if available)*
-
----
 
 ## 📝 Tips
 

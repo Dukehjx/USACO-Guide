@@ -61,12 +61,6 @@ A topo order exists **iff** the graph is a **DAG** (no directed cycles).
 
 ---
 
-## 🖼️ Visualization
-
-> **[Placeholder: DAG with arrows; nodes of indegree 0 entering a queue; or DFS finishing-time stack]**
-
----
-
 ## 📝 Tips
 
 - Graph may be **disconnected**—start from all sources (indegree 0) or loop over all nodes in DFS.  
