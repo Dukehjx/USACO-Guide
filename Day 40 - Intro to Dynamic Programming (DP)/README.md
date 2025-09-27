@@ -12,13 +12,6 @@ Dynamic Programming is a method to solve problems by breaking them down into sma
 3. **Memoization** – Store results of recursive calls in a table (top-down DP).
 4. **Tabulation** – Build results iteratively in a table (bottom-up DP).
 
-### Visualization
-Think of climbing stairs:
-- You can climb either 1 or 2 steps at a time.
-- To reach step `n`, you can come from `n-1` or `n-2`.
-- This is the same as Fibonacci sequence!
-
-![DP Visualization Placeholder](../assets/dp_intro.png)
 
 ---
 
