@@ -35,14 +35,7 @@ A **Segment Tree** is a binary tree built over an array to answer **range querie
 
 ---
 
-## 4) Visualization (describe in words)
-Imagine a tree where the top node stores the **sum of the entire array**.  
-It splits into two nodes storing sums of the **left half** and **right half**.  
-Queries walk down the tree, touching only `~log2(N)` nodes.
 
-![Segment Tree Illustration Placeholder](../assets/day51_segment_tree.png)
-
----
 
 ## 5) Complexity
 - Build: `O(N)`  
