@@ -28,12 +28,7 @@ Idea: **Delay updates until necessary.**
 
 ---
 
-## Visualization
-Think of the segment tree nodes carrying “post-it notes” with delayed updates, applied only when required.
 
-![Segment Tree Lazy Placeholder](../assets/day52_lazy_segment_tree.png)
-
----
 
 ## Learning Goals
 - Understand why **lazy propagation** is needed.  
